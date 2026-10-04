@@ -50,7 +50,6 @@ The Power BI dashboard provides an interactive view of the analyzed data, includ
 
 - **Balance:** Total Availability − Total Expenditure
 - **Utilization Percentage:** Total Expenditure ÷ Total Availability × 100
-- **Flagged District-Year:** A district-year observation with at least one flag
 - **Total Flags:** The number of flag events raised across the observations
 
 A district-year with multiple flags is counted once in the flagged district-years metric, but contributes multiple times to the total flags metric.
